@@ -1,9 +1,10 @@
 {
 	"name": "datatables-fixedheader-ext",
-	"version": "1",
+	"version": "1.0.0",
+	"main": [
+		"js/dataTables.fixedHeader.ext.js"
+	],
 	"dependencies": {
-		"jquery": ">=1.7.0",
-		"datatables": ">=1.9.0",
 		"datatables-fixedheader": ">=2.1.2"
 	}
 }
