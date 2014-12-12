@@ -1,10 +1,29 @@
 {
-	"name": "datatables-fixedheader-ext",
-	"version": "1.0.0",
-	"main": [
-		"js/dataTables.fixedHeader.ext.js"
-	],
-	"dependencies": {
-		"datatables-fixedheader": ">=2.1.2"
-	}
+  "name": "datatables-fixedheader-ext",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": ">=1.7.0",
+    "datatables": ">=1.9.0",
+    "datatables-fixedheader": ">=2.1.2"
+  },
+  "homepage": "https://github.com/sspbasheer/FixedHeader_Ext",
+  "authors": [
+    "basheer <ssp.basheer@gmail.com>"
+  ],
+  "description": "extending datatable.fixedheader.js file",
+  "main": "js/dataTables.fixedHeader.ext.js",
+  "keywords": [
+    "datatable",
+    "fixed",
+    "header",
+    "customized"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
